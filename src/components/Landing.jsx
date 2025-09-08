@@ -5,7 +5,7 @@ export default function Landing({ setPage }) {
     <div
       className="min-h-screen bg-cover bg-center flex items-center justify-center"
       style={{
-        backgroundImage: "url('/src/assets/landing-bg.jpg')", // use your downloaded image
+        backgroundImage: "url('/src/assets/landing-bg.jpg')", 
       }}
     >
       <div className="max-w-4xl bg-black/80 p-12 rounded-lg shadow-lg text-center">

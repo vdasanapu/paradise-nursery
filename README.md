@@ -6,6 +6,7 @@ Got it 👍 Here’s a cleaner **README.md** without the rubric section:
 
 [**Live Demo** 🚀](https://vdasanapu.github.io/paradise-nursery/)
 [**GitHub Repository** 📂](https://github.com/vdasanapu/paradise-nursery)
+[**Main branch**] https://github.com/vdasanapu/paradise-nursery/tree/main?tab=readme-ov-file
 
 Final Project for Coursera — **Frontend Shopping Application**
 
